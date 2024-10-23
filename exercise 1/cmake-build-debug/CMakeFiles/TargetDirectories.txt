@@ -1,0 +1,3 @@
+/Users/Hossein/Desktop/debugging/exercise 1/cmake-build-debug/CMakeFiles/exercise_1.dir
+/Users/Hossein/Desktop/debugging/exercise 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Hossein/Desktop/debugging/exercise 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
